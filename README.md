@@ -1,6 +1,6 @@
 <h1> 👋 Olá, eu sou Davi Alexandre! </h1>
 
-<h3> 👨‍💻 Programador Fullstack </h3>
+<h3> 👨‍💻 DESENVOLVEDOR FRONT END | DESENVOLVEDOR WEB </h3>
 <br>
 <h3> 🚀 Aprendendo e criando projetos com: </h3>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-html">

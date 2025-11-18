@@ -14,8 +14,7 @@
 
 - Análise e Desenvolvimento de Sistemas 
 - Técnico em Informática
-- Python 3
-- Desenvolvimento Web (em andamento)
+- Desenvolvimento Web
 <br>
 <h3> Vamos nos conectar? </h3>
 <a href="https://www.linkedin.com/in/davi-alexandre-da-silva-2a3906291/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>

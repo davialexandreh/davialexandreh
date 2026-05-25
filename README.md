@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou Davi Alexandre
+### Olá, eu sou Davi Alexandre
 
 Desenvolvedor Front-end na [Orla Tech](https://orla.tech), trabalhando com aplicações web e mobile em React e React Native.
 

@@ -20,3 +20,6 @@ Desenvolvedor Front-end na [Orla Tech](https://orla.tech), trabalhando com aplic
 #### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-alexandre-da-silva-2a3906291/)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=davialexandreh&show_icons=true&theme=dark)
